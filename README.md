@@ -2,6 +2,7 @@
 Building a simple server, which responds with 2 'pong' for every 'ping' command
 
 Usage:
+
 Open 2 terminal windows, do 'make' in one of them to compile the ./server executable
 In the other one do 'gcc client.c -o client' to comiple the client part
 
