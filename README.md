@@ -1,5 +1,5 @@
 # ping_pong_server
-Building a simple server, which responds with 2 'pong' for every 'ping' command, using my own C librabry functions.
+Building a simple server, which response with 2 'pong' for every 'ping' command, using my own C librabry functions.
 
 Usage:
 
